@@ -4,7 +4,7 @@
 --- 
 
 ## 🚀 Features
-### Basics
+### 🧮 Basics
 Foundational Python syntax and programming constructs:
 - Variables, data types, operators, and type conversion
 - Control flow: `if-elif-else`, loops (`for`, `while`), `break`, `continue`
@@ -12,7 +12,7 @@ Foundational Python syntax and programming constructs:
 - List/dict comprehensions, input handling, modules
 - File I/O basics and comments
 
-### OOPS (Object-Oriented Programming)
+### ⚙️ OOPS (Object-Oriented Programming)
 Complete coverage of Python’s object-oriented paradigm:
 - Classes, objects, constructors (`__init__`)
 - Encapsulation, inheritance (single & multiple), polymorphism
@@ -20,14 +20,14 @@ Complete coverage of Python’s object-oriented paradigm:
 - Inner classes, abstraction (`abc` module)
 - Special methods (`__str__`, `__repr__`, etc.)
 
-### Data Structures
+### 📦 Data Structures
 Practical implementations of core and built-in data structures:
 - Lists, tuples, sets, dictionaries
 - Stacks, queues, deque
 - Linked lists, trees (basic), graphs (adjacency list)
 - Hashing concepts and collision handling
 
-### Advanced
+### 🪄 Advanced
 Real-world and performance-focused topics:
 - Multithreading & multiprocessing
 - Locks, semaphores, deadlocks
