@@ -1,0 +1,3 @@
+This is a text written to newfile_dup
+This is a text appended to newfile_dup
+This is a text appended to newfile_dup

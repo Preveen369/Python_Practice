@@ -1,0 +1,4 @@
+This is a newfile
+This is a text appended to newfile
+This is a text appended to newfile
+This is a text appended to newfile
